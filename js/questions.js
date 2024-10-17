@@ -1,4 +1,4 @@
-let questions = [
+let questions= [
 
     {
         numb: 1,
